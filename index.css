@@ -321,7 +321,6 @@ img{
 .haishang .haishang1 .haishang11{
 	width: 396px;
 	height: 100px;
-	background-color: red;
 	float: left;
 }
 .haishang .haishang1 a img{
@@ -679,7 +678,6 @@ img{
 .xiang .xiang1{
 	width: 390px;
 	height: 170px;
-	background-color: red;
 	float: left;
 	margin-bottom: 5px;
 	margin-right: 15px;
@@ -705,7 +703,6 @@ img{
 .xiang .xiang3{
 	width: 190px;
 	height: 170px;
-	background-color: yellow;
 	float: left;
 	margin-top: 10px;
 	margin-left: 5px;
@@ -1440,7 +1437,6 @@ a{
 .banner .banner_center .ban_cen_top{
 	width: 790px;
 	height: 340px;
-	background-color: pink;
 	position: relative;
 	top: 0;
 	left: 0;
@@ -1462,9 +1458,6 @@ a{
 .banner .banner_center .ban_cen_top .wang_left,.banner .banner_center .ban_cen_top .wang_right{
 	cursor: pointer;
 }
-/* .banner .banner_center .ban_cen_top .wang_left:hover{
-	background-color: rgba(0,0,0,.5);
-} */
 .banner .banner_center .ban_cen_top:hover .wang_left{
 	width: 30px;
 	height: 60px;
@@ -1493,7 +1486,6 @@ a{
 	width: 166px;
 	height: 12px;
 	position: absolute;
-	/* z-index: 1; */
 	left: 50%;
 	bottom: 20px;
 	margin-left: -91px;
